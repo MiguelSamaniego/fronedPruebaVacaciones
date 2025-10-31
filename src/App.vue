@@ -76,7 +76,7 @@
       <section v-else>
         <header class="mb-4 flex items-center justify-between">
           <div>
-            <h1 class="text-2xl md:text-3xl font-bold mb-1">Prototipo — Sistema de Vacaciones</h1>
+            <h1 class="text-2xl md:text-3xl font-bold mb-1">Sistema de Vacaciones</h1>
             <p class="text-sm text-gray-600">
               Hola {{ user.nombre }} ({{ user.rol }})
             </p>
