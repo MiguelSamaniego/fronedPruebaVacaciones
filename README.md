@@ -291,10 +291,4 @@ docker compose up -d
 
 También puedes registrarte desde el frontend.
 
----
 
-## 12. 📄 Notas finales
-
-- Este proyecto **no tiene JWT real** todavía, es un login simple para prototipar.
-- Si lo vas a subir a producción, encripta las contraseñas (BCrypt) y protege los endpoints por rol.
-- El frontend usa el diseño HTML/Tailwind que se te entregó al inicio.
